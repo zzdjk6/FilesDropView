@@ -1,0 +1,16 @@
+PODS:
+  - FilesDropView (0.1.0)
+
+DEPENDENCIES:
+  - FilesDropView (from `../`)
+
+EXTERNAL SOURCES:
+  FilesDropView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  FilesDropView: 6023ec1bfc47c3303e62bd2cf797ba5da5406d1c
+
+PODFILE CHECKSUM: 08dc83084d1f6d335d5f27ef0b7b51e257b37b71
+
+COCOAPODS: 1.1.1

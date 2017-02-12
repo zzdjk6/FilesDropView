@@ -1,0 +1,6 @@
+framework module FilesDropView {
+  umbrella header "FilesDropView-umbrella.h"
+
+  export *
+  module * { export * }
+}

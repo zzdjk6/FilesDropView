@@ -1,0 +1,6 @@
+framework module Pods_FilesDropView_Demo {
+  umbrella header "Pods-FilesDropView_Demo-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,11 +1,5 @@
 use_frameworks!
 
-target 'FilesDropView_Example' do
+target 'FilesDropView_Demo' do
   pod 'FilesDropView', :path => '../'
-
-  target 'FilesDropView_Tests' do
-    inherit! :search_paths
-
-    
-  end
 end
