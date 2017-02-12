@@ -1,21 +1,20 @@
 {
   "name": "FilesDropView",
   "version": "0.1.0",
-  "summary": "A short description of FilesDropView.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/zzdjk6@126.com/FilesDropView",
+  "summary": "A files drop view for macOS (OSX). Easy to use, customizable, and functional out of box.",
+  "description": "A files drop view for macOS (OSX).\nIt's Easy to use, customizable, and functional out of box.",
+  "homepage": "https://github.com/zzdjk6/FilesDropView",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "zzdjk6@126.com": "zzdjk6@gmail.com"
+    "zzdjk6": "zzdjk6@126.com"
   },
   "source": {
-    "git": "https://github.com/zzdjk6@126.com/FilesDropView.git",
+    "git": "https://github.com/zzdjk6/FilesDropView.git",
     "tag": "0.1.0"
   },
-  "social_media_url": "https://twitter.com/zzdjk6",
   "platforms": {
     "osx": "10.10"
   },

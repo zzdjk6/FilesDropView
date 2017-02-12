@@ -12,14 +12,14 @@ Pod::Spec.new do |s|
   s.summary          = 'A files drop view for macOS (OSX). Easy to use, customizable, and functional out of box.'
 
   s.description      = <<-DESC
-A files drop view for macOS (OSX). Easy to use, customizable, and functional out of box.
+A files drop view for macOS (OSX).
+It's Easy to use, customizable, and functional out of box.
                        DESC
 
-  s.homepage         = 'https://github.com/zzdjk6@126.com/FilesDropView'
+  s.homepage         = 'https://github.com/zzdjk6/FilesDropView'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'zzdjk6' => 'zzdjk6@126.com' }
-  s.source           = { :git => 'https://github.com/zzdjk6/FilesDropView', :tag => s.version.to_s }
-  s.social_media_url = 'https://twitter.com/zzdjk6'
+  s.source           = { :git => 'https://github.com/zzdjk6/FilesDropView.git', :tag => s.version.to_s }
 
   s.platform = :osx
   s.osx.deployment_target = '10.10'
